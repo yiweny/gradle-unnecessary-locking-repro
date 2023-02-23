@@ -1,0 +1,1 @@
+# gradle-unnecessary-locking-repro
