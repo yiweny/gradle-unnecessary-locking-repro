@@ -9,3 +9,9 @@
  */
 
 rootProject.name = 'gradle-unnecessary-locking-repro'
+include 'kuromi-api'
+include 'kuromi-api:kuromi-api-objects'
+include 'kuromi-api:kuromi-api-jersey'
+include 'cinnamoroll-api'
+include 'cinnamoroll-api:cinnamoroll-api-objects'
+include 'cinnamoroll-api:cinnamoroll-api-jersey'
